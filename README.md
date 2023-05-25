@@ -38,6 +38,5 @@ We will be using the ChatGPT API to create a chat notes app.
 - As a user, I want to be able to customize the appearance of my notebook, such as changing the font or background color. 
 - As a user, I want to be able to add multiple tags to notes
 
-## Resources:
-
-https://uiverse.io/
+## More Resources
+For the video walkthrough as well as other helpful tools if you are a diverse technologist, ally or sponsor of diversity and inlusion in tech, join [#GRiThub](https://grithub.reppedintech.com)
