@@ -6,11 +6,11 @@ We will be using the ChatGPT API to create a chat notes app.
 
 ## Get Started
 
-- [Use the template](https://github.com/Repped-In-Tech/chAI-notes/generate) to create this project on your own Github account
-- It is up to you if you want to pull the code down to your local machine or use an online code editor like gitpod. whichever you chose,  complete that.
-- Follow [GET_STARTED](./GET_STARTED.md) to setup the project
-- In Chrome, open the [Firebase Console](https://console.firebase.google.com/)
-- In another tab, Create an account for the [ChatGPT API](https://platform.openai.com/overview)
+1. [Use the template](https://github.com/Repped-In-Tech/chAI-notes/generate) to create this project on your own Github account
+1. It is up to you if you want to pull the code down to your local machine or use an online code editor like gitpod. whichever you chose,  complete that.
+1. Follow [GET_STARTED](./GET_STARTED.md) to setup the project
+1. In Chrome, open the [Firebase Console](https://console.firebase.google.com/)
+1. In another tab, Create an account for the [ChatGPT API](https://platform.openai.com/overview)
 
 ## Documentation
 
