@@ -15,6 +15,7 @@ We will be using the ChatGPT API to create a chat notes app.
 ## Documentation
 
 - [ERD](https://dbdiagram.io/d/646f7e857764f72fcfd8dd78)
+- [Project Board](https://github.com/orgs/Repped-In-Tech/projects/3/views/1)
 - [ChatGPT API](https://platform.openai.com/overview) Docs
 
 ## Acceptance Criteria
